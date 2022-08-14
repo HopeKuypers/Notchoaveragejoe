@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Notchoaveragejoe
 - 👀 I’m interested in Mental Health
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React!
 - 💞️ I’m looking to collaborate on Mental Health Technologies
 - 📫 How to reach me hopekuypers94@gmail.com
 
